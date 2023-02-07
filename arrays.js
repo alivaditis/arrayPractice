@@ -13,7 +13,15 @@ console.log(strings, popped)
 numbers.push(5)
 console.log(numbers)
 
-//Use the shift method to display the second and third indexed items in the array.
+//Use the shift method to display the middle two indexed items in the array.
 //Stores the sliced array in a new value, sliced.  prints the new value as sliced array.
 sliced = booleans.slice(1,3)
 console.log(sliced);
+
+//Prints the string at the third indexed value (2, not 3 because the count starts at 0)
+
+console.log(strings[2])
+
+//Prints the number at the fourth indexed value (3, not 4 because the count starts at 0)
+
+console.log(numbers[3])
