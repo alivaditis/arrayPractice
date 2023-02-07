@@ -1,0 +1,3 @@
+- Fairly confident!
+- I am going to take some time to learn about some other array methods.
+- Most of my questions will be answered by looking through documentation I think.
